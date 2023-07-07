@@ -1,1 +1,1 @@
-# TRIBUTE_PAGE
+tribute page for linus torvalds
